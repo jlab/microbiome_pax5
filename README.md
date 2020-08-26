@@ -13,8 +13,8 @@ You might alternatively download sequences from ENA: ERP117561, ERP117668, ERP12
 
 There is a bunch of additional software necessary to actually re-compute each and every analysis step. Most notabely
   - [qiime2](qiime2.org/) (version 2020.2)
-  - [ggmap](https://github.com/sjanssen2/ggmap) (a collection of custom build helper scripts)
-Function in ggmap will call several conda environments, whose build recipies are contained in ggmap sources.
+  - [ggmap](https://github.com/sjanssen2/ggmap) (a collection of custom build helper scripts, use release https://github.com/sjanssen2/ggmap/tree/1.0.0)
+Functions in ggmap will call several conda environments, whose build recipies are contained in ggmap sources.
 
 Shoot your questions to stefan.janssen@computational.bio.uni-giessen.de
 
