@@ -14,3 +14,6 @@ There is a bunch of additional software necessary to actually re-compute each an
 Function in ggmap will call several conda environments, whose build recipies are contained in ggmap sources.
 
 Shoot your questions to stefan.janssen@computational.bio.uni-giessen.de
+
+#### Figures
+In principle, figures are generated via the notebook. However, some of the figures in the manuscript have manually been polished via Inkscape or other graphic software. Those manually touched versions are stored in the sub-directory [4Cohorts/Figures](4Cohorts/Figures) as \*.svg files.
